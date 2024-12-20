@@ -116,3 +116,9 @@ Now run,
 ```bash
 streamlit run app.py
 ```
+Author
+
+Name: Rajavarapu Sreeja
+Email: rsreeja2487@gmail.com
+
+THankyou....
